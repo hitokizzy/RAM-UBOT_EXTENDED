@@ -14,6 +14,7 @@
   "repository": "https://github.com/htiokizzy/RAM_UBOT_EXT/",
   "website": "https://github.com/RAM-UBOT/",
   "success_url": "https://t.me/ramsupport",
+  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
